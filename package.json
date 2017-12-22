@@ -1,0 +1,22 @@
+{
+  "name": "fullstack-angular-review-19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon rest-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.8",
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.2",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "sequelize": "^4.28.6",
+    "sqlite3": "^3.1.13"
+  }
+}
